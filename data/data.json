@@ -1,1 +1,243 @@
-{"events_categories":[{"id":"london","title":"Diary products","description":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem","image":"https://images.unsplash.com/photo-1566454825481-4e48f80aa4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"},{"id":"san-francisco","title":"Bakery","description":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem","image":"https://images.unsplash.com/photo-1543876604-b8ac0e7ded00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"},{"id":"vegetables","title":"Vegetables","description":"corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.","image":"https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"},{"id":"barcelona","title":"Fruits","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1580691155297-c6dfa3ca61c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"}],"allEvents":[{"id":"london-comic-con-winter","title":"Milk","city":"london","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1563636619-e9143da7973b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80","emails_registered":["","gusteg69@gmail.com","23auka01@lillestromskolen.no"]},{"id":"hyde-park-winter-wonderland","title":"Butter","city":"london","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1603596310923-dbb12732f9c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":[]},{"id":"new-years-eve-in-london-2023","title":"Yogurt ","city":"london","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1639389677904-4bbd9a580d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80","emails_registered":[]},{"id":"'edtech-world-summit-2022","title":"Cheese","city":"london","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1633108199105-d1964ad7f0f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com",""]},{"id":"sigala-at-electric-brixton","title":"Condensed milk","city":"london","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1615110250484-e8c3b151b957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80","emails_registered":["monica@gmail.com"]},{"id":"sf-blockchain-week","title":"Cinnamon bun","city":"san-francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1651604017152-e2c94e9cff1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80","emails_registered":["","","","laura@gmail.com","laura@gmail.com","laura@gmail.com"]},{"id":"innovation-summit-san-francisco","title":"Croissant","city":"san-francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1599940778173-e276d4acb2bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=855&q=80","emails_registered":[]},{"id":"fan-expo-san-francisco","title":"Bread","city":"san-francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1549931319-a545dcf3bc73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":[]},{"id":"san-francisco-opera---san-francisco-tickets","title":"Bagel","city":"san-francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1601640790698-5a509963cf01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":[]},{"id":"concert-christian-löffler-+-detect-ensemble","title":"Kiwi","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1586878018137-3f972630ae43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"the-halloween-house-party","title":"Lemon","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1586878018373-b0e446e52b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com","david@yahoo.com","claire@ss.com"]},{"id":"international-conference-on-industrial-design","title":"Strawberry","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"Watermelon","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1581074817932-af423ba4566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"riskminds-international","title":"Mango","city":"barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1548587276-785018060579?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"Tomato","city":"vegetables","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1607863680026-e113604ccb17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"Green brocoli","city":"vegetables","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"Onion","city":"vegetables","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1587049693270-c7560da11218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]},{"id":"world-congress-2022---barcelona","title":"Cabbage","city":"vegetables","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1611105637889-3afd7295bdbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80","emails_registered":["alicia@gmail.com","monica@gmail.com"]}]}
+{
+    "events_categories": [
+        {
+            "id": "london",
+            "title": "Diary products",
+            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+            "image": "https://images.unsplash.com/photo-1566454825481-4e48f80aa4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        },
+        {
+            "id": "san-francisco",
+            "title": "Bakery",
+            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+            "image": "https://images.unsplash.com/photo-1543876604-b8ac0e7ded00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "id": "vegetables",
+            "title": "Vegetables",
+            "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
+            "image": "https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+        },
+        {
+            "id": "barcelona",
+            "title": "Fruits",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1580691155297-c6dfa3ca61c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    ],
+    "allEvents": [
+        {
+            "id": "london-comic-con-winter",
+            "title": "Milk",
+            "price": 50,
+            "city": "london",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+            "emails_registered": [
+                "",
+                "gusteg69@gmail.com",
+                "23auka01@lillestromskolen.no"
+            ]
+        },
+        {
+            "id": "hyde-park-winter-wonderland",
+            "title": "Butter",
+            "price": 60,
+            "city": "london",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1603596310923-dbb12732f9c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                ""
+            ]
+        },
+        {
+            "id": "new-years-eve-in-london-2023",
+            "title": "Yogurt",
+            "price": 55,
+            "city": "london",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1639389677904-4bbd9a580d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "'edtech-world-summit-2022",
+            "title": "Cheese",
+            "price": 88,
+            "city": "london",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1633108199105-d1964ad7f0f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com",
+                ""
+            ]
+        },
+        {
+            "id": "sigala-at-electric-brixton",
+            "title": "Condensed milk",
+            "price": 34,
+            "city": "london",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1615110250484-e8c3b151b957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "emails_registered": [
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "sf-blockchain-week",
+            "title": "Cinnamon bun",
+            "price": 47,
+            "city": "san-francisco",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1651604017152-e2c94e9cff1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "emails_registered": [
+                "",
+                "",
+                "",
+                "laura@gmail.com",
+                "laura@gmail.com",
+                "laura@gmail.com",
+                "gusteg69@gmail.com",
+                "ingelele@gmai.com",
+                "gusteg69@gmail.comasdf"
+            ]
+        },
+        {
+            "id": "innovation-summit-san-francisco",
+            "title": "Croissant",
+            "price": 57,
+            "city": "san-francisco",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1599940778173-e276d4acb2bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=855&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "fan-expo-san-francisco",
+            "title": "Bread",
+            "price": 44,
+            "city": "san-francisco",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "san-francisco-opera---san-francisco-tickets",
+            "title": "Bagel",
+            "price": 54,
+            "city": "san-francisco",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1601640790698-5a509963cf01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": []
+        },
+        {
+            "id": "concert-christian-löffler-+-detect-ensemble",
+            "title": "Kiwi",
+            "price": 76,
+            "city": "barcelona",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1586878018137-3f972630ae43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "the-halloween-house-party",
+            "title": "Lemon",
+            "price": 22,
+            "city": "barcelona",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1586878018373-b0e446e52b88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com",
+                "david@yahoo.com",
+                "claire@ss.com"
+            ]
+        },
+        {
+            "id": "international-conference-on-industrial-design",
+            "title": "Strawberry",
+            "price": 32,
+            "city": "barcelona",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "world-congress-2022---barcelona",
+            "title": "Watermelon",
+            "price": 80,
+            "city": "barcelona",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1581074817932-af423ba4566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "riskminds-international",
+            "title": "Mango",
+            "price": 66,
+            "city": "barcelona",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1548587276-785018060579?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "world-congress-2022---barcelona",
+            "title": "Tomato",
+            "price": 43,
+            "city": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1607863680026-e113604ccb17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "world-congress-2022---barcelona",
+            "title": "Green brocoli",
+            "price": 65,
+            "city": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "world-congress-2022---barcelona",
+            "title": "Onion",
+            "price": 54,
+            "city": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1587049693270-c7560da11218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        },
+        {
+            "id": "world-congress-2022---barcelona",
+            "title": "Cabbage",
+            "price": 48,
+            "city": "vegetables",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1611105637889-3afd7295bdbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "emails_registered": [
+                "alicia@gmail.com",
+                "monica@gmail.com"
+            ]
+        }
+    ]
+}

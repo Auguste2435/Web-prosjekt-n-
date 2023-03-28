@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
-export const HomePage = ({ data }) => (
+export const CartPage = ({ data }) => (
   <div className="home_body">
     {data?.map((ev) => (
       <Link key={ev.id} href={`/events/${ev.id}`} passHref>
@@ -12,6 +12,8 @@ export const HomePage = ({ data }) => (
           <div className="content">
             <h2> {ev.title} </h2>
             <p> {ev.description} </p>
+            <p> {ev.price} $</p>
+            <Image id="foo" alt="logo" src={'/images/shopping-cart.png'} width={50} height={50}></Image>
           </div>
         </a>
       </Link>

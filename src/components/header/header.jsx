@@ -1,10 +1,16 @@
 import Link from 'next/link';
 import Image from 'next/image';
+// import Cart from "../../../pages/_app"
+// import { handleClientScriptLoad } from 'next/script';
+import { useSelector, useDispatch } from 'react-redux';
+
 
 export const Header = () => {
-
+  
+  
   return (
     <header>
+      <div className="container">      <h2>Search products</h2>      <input id="searchbar" autocomplete="off" onkeyup="search()" type="text" name="search" placeholder="What are you looking for?" onload="loadSearchData()" />      <div id="list">               </div>      </div>
       <div>
         <div className="topNav">
           <Link href="/" passHref>
@@ -14,7 +20,7 @@ export const Header = () => {
             <ul>
               <li>
                 <Link href="/" passHref>
-                  <a> Home </a>
+                  <a>Home</a>
                 </Link>
               </li>
               <li>
@@ -38,9 +44,11 @@ export const Header = () => {
                 </Link>
               </li>
               <li>
+
                 <Link href="/cart" passHref>
-                  <a> Cart</a>
+                  <a>Cart</a>
                 </Link>
+
               </li>
             </ul>
           </nav>

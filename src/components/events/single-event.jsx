@@ -3,14 +3,21 @@ import { useRouter } from 'next/router';
 
 import Link from 'next/link';
 import React, { useState, useEffect, useRef } from "react";
-import Amazon from "../../amazon";
-import Navbar from "../../navbar";
-import Cart from "../../cart"
-
+import addToCart from '../../../redux/cart.slice';
 // import "../styles/cart.css";
+import { useSelector, useDispatch } from 'react-redux';
 
-const SingleEvent = ({ data}) => {
- 
+
+const SingleEvent = ({ data }) => {
+  const loli = useSelector((state) => state.loli);
+
+  // Getting the count of items
+  const getItemsCount = () => {
+    return loli.reduce((accumulator, item) => accumulator + item.quantity, 0);
+  };
+
+  const dispatch = useDispatch();
+
   const [show, setShow] = useState(true);
   const [cart, setCart] = useState([]);
 
@@ -59,19 +66,33 @@ const SingleEvent = ({ data}) => {
       console.log('ERROR', e);
     }
   };
-  
+
   return (
     <div className="event_single_page">
       <h1> {data.title} </h1>
       <Image src={data.image} width={1000} height={500} alt={data.title} />
       <p> {data.description} </p>
+      <h3>$ {data.price}</h3>
+      <button
+        onClick={() => dispatch(addToCart(data.title))}
+        className="styles-button"
+      >
+        Add to Cart
+      </button>
       <form onSubmit={onSubmit} className="email_registration">
         <label> Add product to shopping cart</label>
 
 
         <Link href="/cart" passHref>
           <Image id="foo" alt="logo" src={'/images/shopping-cart.png'} width={50} height={50}></Image>
+
         </Link>
+        <button
+
+        >
+          Add to Cart
+        </button>
+
 
 
         <input
@@ -83,14 +104,8 @@ const SingleEvent = ({ data}) => {
         <button type="submit"> Submit</button>
       </form>
 
-    
-        
-      <Navbar setShow={setShow} size={cart.length} />
-      {show ? (
-        <Amazon handleClick={handleClick} />
-      ) : (
-        <Cart cart={cart} setCart={setCart} handleChange={handleChange} />
-      )}
+
+
     </div>
   );
 };
