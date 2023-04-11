@@ -6,34 +6,15 @@ import React, { useState, useEffect, useRef } from "react";
 import addToCart from '../../../redux/cart.slice';
 // import "../styles/cart.css";
 import { useSelector, useDispatch } from 'react-redux';
+import { add, remove } from "../../../redux/cart.slice";
+
+import { useSnackbar } from "notistack";
+import Product from "../../../pages/Product";
 
 
 const SingleEvent = ({ data }) => {
-  const loli = useSelector((state) => state.loli);
 
-  // Getting the count of items
-  const getItemsCount = () => {
-    return loli.reduce((accumulator, item) => accumulator + item.quantity, 0);
-  };
 
-  const dispatch = useDispatch();
-
-  const [show, setShow] = useState(true);
-  const [cart, setCart] = useState([]);
-
-  const handleClick = (item) => {
-    if (cart.indexOf(item) !== -1) return;
-    setCart([...cart, item]);
-  };
-
-  const handleChange = (item, d) => {
-    const ind = cart.indexOf(item);
-    const arr = cart;
-    arr[ind].amount += d;
-
-    if (arr[ind].amount === 0) arr[ind].amount = 1;
-    setCart([...arr]);
-  }
   const inputEmail = useRef();
   const router = useRouter();
   const [message, setMessage] = useState('');
@@ -73,16 +54,11 @@ const SingleEvent = ({ data }) => {
       <Image src={data.image} width={1000} height={500} alt={data.title} />
       <p> {data.description} </p>
       <h3>$ {data.price}</h3>
-      <button
-        onClick={() => dispatch(addToCart(data.title))}
-        className="styles-button"
-      >
-        Add to Cart
-      </button>
+      <div className="min-h-[80vh] grid sm:grid-cols-2 md:grid-cols-3 space-x-5 space-y-10 lg:grid-cols-4 max-w-6xl mx-auto p-2 ">
+        <Product key={data.id} data={data} />
+      </div>
       <form onSubmit={onSubmit} className="email_registration">
         <label> Add product to shopping cart</label>
-
-
         <Link href="/cart" passHref>
           <Image id="foo" alt="logo" src={'/images/shopping-cart.png'} width={50} height={50}></Image>
 

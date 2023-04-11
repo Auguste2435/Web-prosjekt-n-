@@ -12,7 +12,7 @@ const CatEvent = ({ data, pageName }) => {
         {data.map((ev) => (
           <Link key={ev.id} href={`/events/${ev.city}/${ev.id}`} passHref>
             <a className="card">
-            <Image id="foo" alt="logo" src={'/images/shopping-cart.png'} width={50} height={50} ></Image>
+            {/* <Image id="foo" alt="logo" src={'/images/shopping-cart.png'} width={50} height={50} ></Image> */}
             <Image width={300} height={300} alt={ev.title} src={ev.image} />
               <h2> {ev.title} </h2>
               <p> {ev.description} </p>

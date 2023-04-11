@@ -32,7 +32,7 @@ export default function CartPageo({ ev }) {
 export async function getServerSideProps() {
 
 
-  const { allEvents } = await import('/data/data.json')
+  const { allEvents } = await import('../data/data.json')
 
   return {
     props: {
